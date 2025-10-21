@@ -174,11 +174,6 @@ This project was developed by a collaborative team:
 - **Manpreet Singh**
 - **Dhwani**
 
-## 🙏 Acknowledgments
-
-- Thanks to all hackathon organizers who made their data available
-- Inspired by the need for data-driven decision making in hackathons
-
 ---
 
 ⭐ If you find this project useful, please consider giving it a star on GitHub!
